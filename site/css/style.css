@@ -1,3 +1,10 @@
 * {
 	box-sizing: border-box;
+	font-family: Helvetica;
+}
+h1 {
+	text-align: center;
+}
+div {
+	border: 1px solid black;
 }
